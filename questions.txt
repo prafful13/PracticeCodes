@@ -1,15 +1,15 @@
 Tree:
-1. In-order traversal without recursion
-2. Post order traversal without recursion
-3. Pre-order traversal without recursion
-4. Above with recursion
-5. Match two trees
-6. Find if given binary tree is foldable.
-7. Level order traversal.
-8. Given a BST, find nodes in a given range.
-9. Find Lowest Common Ancestor in a BST.
-10. Create a linked list of each level of a Binary Tree.
-11. Check if a binary tree is a BST.
+1. In-order traversal without recursion                       //  trees/traversals.cpp
+2. Post order traversal without recursion                     //  trees/traversals.cpp
+3. Pre-order traversal without recursion                      //  trees/traversals.cpp
+4. Above with recursion                                       //  trees/traversals.cpp
+5. Match two trees                                            //  trees/identicaltrees.cpp
+6. Find if given binary tree is foldable.                     //  trees/isfoldable.cpp
+7. Level order traversal.                                     //  trees/traversals.cpp
+8. Given a BST, find nodes in a given range.                  //  trees/nodesInRangeBst.cpp
+9. Find Lowest Common Ancestor in a BST.                      //  trees/LCA.cpp
+10. Create a linked list of each level of a Binary Tree.      //  trees/levellinked.cpp
+11. Check if a binary tree is a BST.                          //  trees/checkBST.cpp
 12. Print common nodes in two BSTs.
 13. Print path from root to every leaf.
 14. Find mirror image of a binary tree.
