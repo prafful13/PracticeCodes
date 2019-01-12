@@ -94,51 +94,51 @@ class Traversals {
       }
     }
 };
-
-int main()  {
-  BST tree;
-  Node *root = NULL;
-
-  root = tree.insert(root, 10);
-  root = tree.insert(root, 5);
-  root = tree.insert(root, 20);
-  root = tree.insert(root, 6);
-  root = tree.insert(root, 12);
-  root = tree.insert(root, 2);
-  root = tree.insert(root, 1);
-  root = tree.insert(root, 19);
-  root = tree.insert(root, 25);
-  root = tree.insert(root, 9);
-
-  Traversals logic;
-  logic.inOrder(root);
-  cout<<endl;
-  logic.preOrder(root);
-  cout<<endl;
-  logic.postOrder(root);
-  cout<<endl;
-  logic.inOrderWithoutRecursion(root);
-  cout<<endl;
-  logic.preOrderWithoutRecursion(root);
-  cout<<endl;
-  logic.postOrderWithoutRecursion(root);
-  cout<<endl;
-  logic.levelOrder(root);
-  cout<<endl;
-
-  /*
-  Output:
-  1 2 5 6 9 10 12 19 20 25
-  10 5 2 1 6 9 20 12 19 25
-  1 2 9 6 5 19 12 25 20 10
-  1 2 5 6 9 10 12 19 20 25
-  10 5 2 1 6 9 20 12 19 25
-  1 2 9 6 5 19 12 25 20 10
-  10
-  5 20
-  2 6 12 25
-  1 9 19
-  */
-
-  return 0;
-}
+// 
+// int main()  {
+//   BST tree;
+//   Node *root = NULL;
+//
+//   root = tree.insert(root, 10);
+//   root = tree.insert(root, 5);
+//   root = tree.insert(root, 20);
+//   root = tree.insert(root, 6);
+//   root = tree.insert(root, 12);
+//   root = tree.insert(root, 2);
+//   root = tree.insert(root, 1);
+//   root = tree.insert(root, 19);
+//   root = tree.insert(root, 25);
+//   root = tree.insert(root, 9);
+//
+//   Traversals logic;
+//   logic.inOrder(root);
+//   cout<<endl;
+//   logic.preOrder(root);
+//   cout<<endl;
+//   logic.postOrder(root);
+//   cout<<endl;
+//   logic.inOrderWithoutRecursion(root);
+//   cout<<endl;
+//   logic.preOrderWithoutRecursion(root);
+//   cout<<endl;
+//   logic.postOrderWithoutRecursion(root);
+//   cout<<endl;
+//   logic.levelOrder(root);
+//   cout<<endl;
+//
+//   /*
+//   Output:
+//   1 2 5 6 9 10 12 19 20 25
+//   10 5 2 1 6 9 20 12 19 25
+//   1 2 9 6 5 19 12 25 20 10
+//   1 2 5 6 9 10 12 19 20 25
+//   10 5 2 1 6 9 20 12 19 25
+//   1 2 9 6 5 19 12 25 20 10
+//   10
+//   5 20
+//   2 6 12 25
+//   1 9 19
+//   */
+//
+//   return 0;
+// }
