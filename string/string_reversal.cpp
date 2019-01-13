@@ -16,4 +16,14 @@ public:
     string_reverse1(rev);
     return rev;
   }
+
+  string reverseString(string s) {
+    int i=0, j=s.length()-1;
+    while(i<j)  {
+        char c = s[i];
+        s[i++] = s[j];
+        s[j--] = c;
+    }
+    return s;
+  }
 };
