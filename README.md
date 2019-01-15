@@ -21,7 +21,7 @@
 - [Print Right/Left/Top view of a binary tree.](https://github.com/prafful13/PracticeCodes/blob/master/trees/views.cpp)
 - [Find Depth of tree.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/trees/depth.cpp)
 - [Find if tree is symmetric around root.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/trees/isSymmetric.cpp)
-
+- [Convert Sorted Array to BST.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/trees/sortedToBst.cpp)
 
 ### Arrays
 - [Find Maximum Profit possible](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/122.cpp)
@@ -33,6 +33,9 @@
 - [Add one to given vector.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/plusOne.cpp)
 - [Move Zeros to the right.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/moveZeros.cpp)
 - [Find pair with target sum.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/twoSum.cpp)
+- [Three Sum problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/3sum.cpp)
+- [Set Matrix Zeros](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/MatrixZeros.cpp)
+- [Group anagrams.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/groupAnagrams.cpp)
 
 ### Strings
 - [Reverse Strings.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/reverse.cpp)
@@ -47,3 +50,13 @@
 - [Remove nth from last.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/nthFromLast.cpp)
 - [Reverse singly Linked List](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/reverse.cpp)
 - [Detect Loop in a Linked List](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/detectLoop.cpp)
+
+### Sorting and Searching
+- [Merge Sorted Array](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/merge.cpp)
+- [First Bad Version.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/firstBad.cpp)
+
+### Dynamic Programming
+- [Find number of ways to climb stairs.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/stairs.cpp)
+- [Best buy/sell time 1](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/stock1.cpp)
+- [Maximum Contiguous Subarray Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/maxSubArray.cpp)
+- [House Robber Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/HouseRobber.cpp)
