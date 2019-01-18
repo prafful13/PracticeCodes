@@ -35,7 +35,7 @@
 - [Find pair with target sum.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/twoSum.cpp)
 - [Three Sum problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/3sum.cpp)
 - [Set Matrix Zeros](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/MatrixZeros.cpp)
-- [Group anagrams.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/groupAnagrams.cpp)
+- [Increasing Subsequence Triplets](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/incSubseqTrip.cpp)
 
 ### Strings
 - [Reverse Strings.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/reverse.cpp)
@@ -44,12 +44,18 @@
 - [Validate Palindrome.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/validPalindrome.cpp)
 - [Implement strStr().](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/strStr.cpp)
 - [Longest Common Prefix.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/lcp.cpp)
+- [Group anagrams.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/groupAnagrams.cpp)
+- [Longest Palindromic Substring.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/LongestPalindromicSubstring.cpp)
+- [Longest Substring Without Repeating Characters](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/longestNonRepeatingSubstring.cpp)
 
 ### Linked List
 - [Delete given node.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/deleteNode.cpp)
 - [Remove nth from last.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/nthFromLast.cpp)
 - [Reverse singly Linked List](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/reverse.cpp)
 - [Detect Loop in a Linked List](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/detectLoop.cpp)
+- [Add two numbers](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/addTwoNumbers.cpp)
+- [Odd Even Linked List](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/oddeven.cpp)
+- [Intersection of Two Linked Lists](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/LinkedList/intersection.cpp)
 
 ### Sorting and Searching
 - [Merge Sorted Array](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/merge.cpp)
@@ -60,3 +66,10 @@
 - [Best buy/sell time 1](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/stock1.cpp)
 - [Maximum Contiguous Subarray Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/maxSubArray.cpp)
 - [House Robber Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/HouseRobber.cpp)
+- [Sort Colors.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/sortColors.cpp)
+- [Find kth largest in unsorted array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/kthlargest.cpp)
+- [Wildcard Matching.](https://github.com/prafful13/PracticeCodes/blob/master/DynamicProgramming/WildcardMatch.cpp)
+
+### Graphs
+- [Find Number of Islands.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/graphs/number_of_islands.cpp)
+- [Word Search.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/graphs/word_search.cpp)
