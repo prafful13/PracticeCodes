@@ -23,7 +23,7 @@
 - [Find if tree is symmetric around root.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/trees/isSymmetric.cpp)
 - [Convert Sorted Array to BST.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/trees/sortedToBst.cpp)
 
-### Arrays
+### Arrays, Recursion
 - [Find Maximum Profit possible](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/122.cpp)
 - [Remove Duplicates from Sorted Array](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/26.cpp)
 - [Rotate Array](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/rotateArray.cpp)
@@ -36,6 +36,7 @@
 - [Three Sum problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/3sum.cpp)
 - [Set Matrix Zeros](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/MatrixZeros.cpp)
 - [Increasing Subsequence Triplets](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/array/incSubseqTrip.cpp)
+- [Letter Combinations of a Phone Number.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/17.cpp)
 
 ### Strings
 - [Reverse Strings.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/strings/reverse.cpp)
@@ -60,15 +61,21 @@
 ### Sorting and Searching
 - [Merge Sorted Array](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/merge.cpp)
 - [First Bad Version.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/firstBad.cpp)
+- [Sort Colors.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/sortColors.cpp)
+- [Find kth largest in unsorted array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/kthlargest.cpp)
+- [Search in a rotated array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/searchRotated.cpp)
+
 
 ### Dynamic Programming
 - [Find number of ways to climb stairs.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/stairs.cpp)
 - [Best buy/sell time 1](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/stock1.cpp)
 - [Maximum Contiguous Subarray Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/maxSubArray.cpp)
 - [House Robber Problem.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/HouseRobber.cpp)
-- [Sort Colors.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/sortColors.cpp)
-- [Find kth largest in unsorted array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/kthlargest.cpp)
 - [Wildcard Matching.](https://github.com/prafful13/PracticeCodes/blob/master/DynamicProgramming/WildcardMatch.cpp)
+- [Jump Game.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/jumpGame.cpp)
+- [Unique Paths.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/uniquePaths.cpp)
+- [Coin Change (find min number of coins required).](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/coinChange.cpp)
+- [Longest Increasing Subsequence.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/LIS.cpp)
 
 ### Graphs
 - [Find Number of Islands.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/graphs/number_of_islands.cpp)
