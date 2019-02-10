@@ -64,6 +64,9 @@
 - [Sort Colors.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/sortColors.cpp)
 - [Find kth largest in unsorted array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/kthlargest.cpp)
 - [Search in a rotated array.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/searchRotated.cpp)
+- [Find Peak element.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/findpeak.cpp)
+- [Find k frequent elements.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/kfreq.cpp)
+- [Search Range.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/Sorting-and-Searching/searchRange.cpp)
 
 
 ### Dynamic Programming
@@ -76,6 +79,7 @@
 - [Unique Paths.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/uniquePaths.cpp)
 - [Coin Change (find min number of coins required).](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/coinChange.cpp)
 - [Longest Increasing Subsequence.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/dynamic-programming/LIS.cpp)
+- [Minimum Path Sum.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/64.cpp)
 
 ### Graphs
 - [Find Number of Islands.](https://github.com/prafful13/PracticeCodes/blob/master/leetcode/top-interview-questions-easy/graphs/number_of_islands.cpp)
